@@ -3,3 +3,6 @@
 137 = 128 + 8 + 1 = 2^7 + 2^3 + 2^0 = 2^(2^2 + 2^1 +2^0) + 2^(2^1+2^0) + 2^0 = 2(2(2)+ 2 + 2(0)) + 2(2 + 2(0)) + 2(0)
 
 //just going down the road of 2^n 
+recursion of break down n until n<8 , as n = 8 = 2^(2^1+2^0)
+ algorithm:
+ 
